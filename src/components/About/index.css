@@ -1,0 +1,27 @@
+.about-bg{
+    background-color: black;
+    color: white;
+    height: 90vh;
+}
+.skills{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.skill{
+    border:1px solid aqua ;
+    padding:15px;
+    border-radius: 15px;
+    color: aqua;
+    font-weight: bold;
+    margin-left:20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.who{
+    color: brown;
+
+}
+.skills-h1{
+    color: aqua;
+}

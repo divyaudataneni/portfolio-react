@@ -1,0 +1,40 @@
+.education-bg{
+    background-color: black;
+    min-height: 85vh;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+
+}
+.study-bg{
+    display: flex;
+    flex-direction: column;
+}
+.education{
+    width:40vw;
+    margin-right: 120px;
+    margin-top: 70px;
+   
+}
+.clg{
+    background-color:#686969;
+    color:aquamarine;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 20px;
+
+}
+
+.h2{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    color: aqua;
+}
+.ed{
+    color: aqua;
+
+}

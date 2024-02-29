@@ -1,0 +1,33 @@
+.projects-bg{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 85vh;
+}
+.app{
+    display: flex;
+    flex-direction: column;
+    width:600px;
+}
+
+.skill{
+    margin-left: 0px;
+}
+.jobby{
+    height:250px;
+    width:400px;
+    margin-top: 20px;
+    margin-right: 90px;
+    
+}
+.each-project{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+.jobby:hover{
+    color: red;
+    url : "https://jobbyapp.ccbp.tech/"
+}

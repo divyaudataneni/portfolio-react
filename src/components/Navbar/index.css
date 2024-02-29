@@ -1,0 +1,25 @@
+.nav-bg{
+    background-color: black;
+    height:10vh;
+    color: grey;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+ 
+
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    gap:40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.heading{
+    font-size: 20px;
+}
